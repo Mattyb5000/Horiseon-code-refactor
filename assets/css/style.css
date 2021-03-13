@@ -34,17 +34,17 @@ header nav {
 .seo {
     color: #d9dcd6;
 }
-
+/* Nav bar */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;    
 }
-
+/* Nav bar font color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Paragraph font size */
 p {
     font-size: 16px;
 }
@@ -57,18 +57,18 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Main sections */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Main section */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Main section */
 .float-right {
     float: right;
     margin-left: 25px;
